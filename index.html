@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset='utf-8'>
+
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+
+    <title>Projeto JavaScript</title>
+
+   
+
+    <link rel='stylesheet'  href="css/style.css">
+
+ 
+
+    <script src='js/script1.js'></script>
+
+</head>
+
+<body>  
+
+         <h1>Minha Loja 1.0</h1>
+
+    <main>
+            <h2>Lista de produtos da minha loja:</h2>
+
+          <div class="lineInput">
+
+              <label>Produto</label>
+
+              <input type="text" id="produto" placeholder="Nome do Produto">
+
+          </div>
+
+           <div class="lineInput">
+
+               <label>Valor</label>
+
+               <input type="text" id="valor" placeholder="Valor do produto">
+
+           </div>
+
+ 
+
+          <br>
+
+          <button onclick="produto.salvar()">Salvar</button>
+
+          <button onclick="produto.cancelar()">Cancelar</button>
+
+ 
+
+       
+
+          <h3>CONTROLE DE PRODUTOS</h3>
+
+ 
+
+          <div class="content">
+
+              <table>
+
+                <thead>
+
+                  <th>ID</th>
+
+                  <th>Produto</th>
+
+                  <th>Valor</th>
+
+                  <th>Ações</th>
+
+                </thead>
+
+                <tbody id="tbody">                 
+
+                </tbody>
+
+              </table>
+
+           </div>
+
+    </main>
+
+</body>
+
+</html>
