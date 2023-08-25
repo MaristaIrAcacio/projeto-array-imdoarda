@@ -1,0 +1,87 @@
+h1{
+    color:darkolivegreen;
+   /* text-decoration: underline;*/
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 6px;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: white;
+}
+
+h2{
+    color:darkolivegreen;
+    text-decoration: underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+h3{
+    color:darkolivegreen;
+    text-decoration: underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: center;
+    letter-spacing: 6px;
+}
+
+body{
+    background-color: #A9B69C;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input {
+    width: 230px;
+    height: 40px;
+}
+
+.lineInput{
+    background-color:#96AC60;
+    border: 1px solid white;
+    padding:20px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: darkolivegreen;
+    color:white;
+    transition:all ease 0.3s;
+    padding: 15px 18px;
+    border-radius: 15px;
+    border:1px solid white;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: #C4E477;
+}
+
+.content{
+    background-color: #96AC60;
+    padding: 15px 18px;
+    /*border-radius: 15px;*/
+    margin-top: 30px;
+    padding: 15px 18px;
+}
+
+table{
+    /*border-collapse: collapse;*/
+    border:1px solid white;
+    width: 100%;
+}
+
+table th{
+    background-color:#96AC60;
+    border:1px solid white;
+}
+
+table td{
+    background-color:#96AC60;
+    border:1px solid white;
+}
