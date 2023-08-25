@@ -1,1 +1,12 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11560845&assignment_repo_type=AssignmentRepo)
+# PROJETO DE RECUPERAÇÃO USANDO ARRAY
+
+    Esse projeto de recuperação usa Array para organizar melhor a parte interna de uma loja, informando o nome e o valor.
+
+# COMEÇANDO
+
+    Nesse projeto, a pessoa pode informar os dados de um produto na aba de input criada, logo depois, caso a mesma aperte salvar, as informações são salvas numa tabela, caso contrário, ela pode cancelar.
+    Nessa tabela, é possível editar as informações do produto ou excluir, de acordo com a necessidade.
+
+# EXPLICAÇÃO PASSO A PASSO
+
+    
