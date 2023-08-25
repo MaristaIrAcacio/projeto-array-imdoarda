@@ -9,4 +9,15 @@
 
 # EXPLICAÇÃO PASSO A PASSO
 
+Quando abre-se o site, essa é a tela inicial
+
+![image](https://github.com/MaristaIrAcacio/projeto-array-imdoarda/assets/127868962/d241cafe-7729-4c58-a8d5-bd31c10b90e0)
+
+Caso quem esteja usando o sit não informe os dois campos, essa notificação em pop up aparece
+
+![image](https://github.com/MaristaIrAcacio/projeto-array-imdoarda/assets/127868962/8b8a2c93-5a27-44bf-8e72-9cb7d3951ccd)
+
+
+
+
     
